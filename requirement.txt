@@ -1,5 +1,4 @@
 pandas
-numpy
 matplotlib
 plotly
 requests
@@ -10,3 +9,7 @@ pymongo
 apache-airflow[postgres,mongo]
 nltk
 spacy
+
+
+
+
